@@ -8,8 +8,7 @@
 
 ## 🧠 Sobre mí
 
-Soy desarrollador frontend con experiencia práctica en proyectos reales, combinando desarrollo con coordinación técnica.  
-He trabajado en construcción de interfaces, integración con APIs y optimización de aplicaciones.
+Me apasiona construir interfaces intuitivas que resuelvan problemas reales en ese momento donde diseño, lógica y UX se alinean perfectamente. Quiero hacer parte de un equipo con buenas prácticas reales: código documentado, pruebas y cultura de mejora continua. Lo que ofrezco: compromiso real con lo que entrego, visión de producto pensando en el usuario final, mentalidad de calidad aprendida en coordinación y QA, y aprendizaje continuo. Si no sé algo, lo aprendo. Esa es mi ventaja competitiva.
 
 ---
 
@@ -33,14 +32,20 @@ He trabajado en construcción de interfaces, integración con APIs y optimizaci�
 
 ## 🚀 Proyectos Destacados
 
+🟣 **TaskFlow (SaaS)**  
+https://taskflow-frontend-flax.vercel.app
+Plataforma de gestión de tareas desarrollada con enfoque FullStack, incluyendo autenticación, manejo de estado e integración con backend.
+
 🔴 **Velada Landing**  
 https://velada-vi-landing.vercel.app  
+Landing page con enfoque en experiencia de usuario, animaciones modernas y alto rendimiento.
 
 🟢 **CoopAudí (Next.js)**  
 Proyecto web corporativo con rutas, formularios y API  
 
-🟡 **API Pólizas (NestJS)**  
-Backend REST para gestión de pólizas  
+🟡 **Like/Dislike**  
+https://like-dislike-woad.vercel.app/
+Interfaz de usuario estilo arcade retro para sistema de votación de personajes. Vote por sus personajes favoritos de Rick & Morty, Pokémon y Superhéroes mientras la IA aprende sus preferencias.
 
 🟠 **E-commerce (en desarrollo)**  
 Aplicación frontend con lógica de negocio y UI moderna  
